@@ -22,4 +22,5 @@
 </ul>
 
 <a href="https://play.google.com/store/apps/details?id=com.restbrunch_client">Restbrunch - Apps on Google Play</a>
+<br/>
 <a href="https://apps.apple.com/de/app/restbrunch/id1509730956?l=en">Restbrunch on the App Store</a>
